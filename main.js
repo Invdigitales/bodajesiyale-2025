@@ -71,7 +71,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3278.9581099682496!2d-58.50496522487762!3d-34.73145026425415!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bccef8ac7acf83%3A0x308e92157265a081!2sGolf%20Club%20Eventos!5e0!3m2!1ses-419!2sar!4v1719444128246!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3411.7677635648342!2d-59.9888762!3d-31.227162900000003!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b49af85305dc59%3A0x7acc4cf0a71e6467!2sParroquia%20%22Nuestra%20Sra.%20de%20la%20Merced%22%20Hernandarias!5e0!3m2!1ses-419!2sar!4v1733837107007!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
         'Podes ampliar el mapa',
         
         
@@ -84,7 +84,7 @@ function diaEventoAhora () {
         icon: 'success',
         html:
           'INGRESÁ' +
-          '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3289.577080336622!2d-58.64133612489268!3d-34.46288205007295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bca58f16d59351%3A0x5c22a695fe3d1e1f!2sSmile%20sal%C3%B3n%20de%20fiestas!5e0!3m2!1ses-419!2sar!4v1722641278724!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+          '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3411.3692395356925!2d-59.9922524!3d-31.2382002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b49aef84cb7fd7%3A0x4a07eb190d744b0e!2sComplejo%20La%20Quinta%20Land!5e0!3m2!1ses-419!2sar!4v1733837020193!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
           'Podes ampliar el mapa',
           
           
